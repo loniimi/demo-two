@@ -1,2 +1,5 @@
-# demo-two
-Example of GH repo starting on default side with new branch
+# demo two
+Example of GH repo starting or remote side with new branch name
+
+Update readme file
+
